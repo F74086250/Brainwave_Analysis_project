@@ -22,9 +22,7 @@
 ## 環境與python package
 ### 測試環境:Windows 10
 ### 軟體工具:MATLAB R2021A,Visual Studio Code,Qt Designer,Python 3.8.0
-#### 快速配置環境的方式:將這份repo中的requirements.txt下載下來，接著前往該文字檔對應的路徑下，並在命令列輸入:
-> pip install requirements.txt
-### 即可快速配置環境
+
 -------------------------------------
 ### 以下為相關package版本
 Package                  Version
